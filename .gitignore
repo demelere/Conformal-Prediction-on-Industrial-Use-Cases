@@ -1,0 +1,6 @@
+*.txt
+*.pdf
+
+# Environments
+**/venv/
+**/env/
